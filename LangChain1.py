@@ -1,6 +1,6 @@
 import os
-os.environ['openai_api_key'] = "sk-xxxxx"
-os.environ['openai_api_base'] = "http://xxxxxx/v1"
+os.environ['openai_api_key'] = "sk-74Oxb8Ej3wI0E7vHLRrKvJnjh4P0b1DING3zK6xQFg4DTXF2pV0C"
+os.environ['openai_api_base'] = "http://paas-chat-api.paas.ding.paas.test.ding/v1"
 
 from langchain_openai import ChatOpenAI
 print("begin")
